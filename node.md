@@ -12,11 +12,11 @@
     font-size: 16px;
   }
   .whole {
-    width: 1072px;
+    /* width: 1072px; */
     font-family:"STSong", Times, serif;
     font-size: 16px;
-    padding-left: 160px;
-    padding-right: 160px;
+    /* padding-left: 160px;
+    padding-right: 160px; */
   }
   .title {
     font-size: 29.3px;
